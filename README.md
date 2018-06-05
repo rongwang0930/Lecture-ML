@@ -1,3 +1,3 @@
 # Lecture-ML
 
-This documents the lecture for Machine Learning course in Python
+This documents the Udemy lecture: Python for Data Science and Machine Learning Bootcamp
